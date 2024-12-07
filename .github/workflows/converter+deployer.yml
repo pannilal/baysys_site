@@ -1,0 +1,40 @@
+name: Build and Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main  # Triggers the workflow on pushes to the 'main' branch
+  workflow_dispatch:  # Allows manual triggering from GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    # Step 1: Check out the repository
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    # Step 2: Set up Hugo
+    - name: Set up Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'  # You can specify a version here if needed
+
+    # Step 3: Fetch website content
+    - name: Fetch website content
+      run: |
+        mkdir -p content/blog  # Create Hugo content folder
+        curl -O https://example.com/some-content-to-parse  # Example of fetching content
+
+    # Step 4: Build the Hugo site
+    - name: Build Hugo site
+      run: |
+        hugo -D  # Builds the site, including drafts if necessary
+
+    # Step 5: Deploy to GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.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 }}
+        publish_dir: ./public  # Hugo's default build output directory
