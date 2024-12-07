@@ -382,8 +382,8 @@
 
 
                         <!-- Half Section Media -->
-                        <div class="half-section-media" style="background-image: url(images/Rajesh.jpg);">
-                            <img class="small-screen-image" src="images/Rajesh.jpg" alt="iDevices Image" />
+                        <div class="half-section-media" style="background-image: url(images/Rachel.jpg);">
+                            <img class="small-screen-image" src="images/Rachel.jpg" alt="iDevices Image" />
                         </div><!-- /End Half Section Media -->
 
 
@@ -400,16 +400,10 @@
                                         <!-- Section Title -->
                                         <div class="section-title">
 
-                                            <h2 class="section-main-title">Rajesh Ranjan, Director, India Operations
+                                            <h2 class="section-main-title">Rachel Baker, Director
                                             </h2>
 
-                                            <p class="section-subtitle">Mr. Ranjan has over 15 years of experience in
-                                                the financial services and investment management software industries
-                                                with an emphasis on financial statement analysis, portfolio
-                                                reconciliation and performance validation and investment technology
-                                                automation processes. He has a Master of Business Economics (MBE) with a
-                                                specialization in Econometric Techniques and Business Planning and
-                                                Forecasting.</p>
+                                            <p class="section-subtitle">Rachel Baker stared her career in financial services in 1992 at an independent broker dealer trying to understand the unique nature and language of representatives and advisors. Over the years she has gained extensive knowledge in Advisory/Wealth Management platforms, as well as portfolio accounting and performance tracking and measurement, financial planning, and portfolio rebalancing tools. While working with Cetera, Voya, First Allied Securities, Schwab Institutional, Wells Fargo, and Montgomery Securities, she had the opportunity to consult with some of the top advisors and independent representatives in the industry to help streamline their business practices, introduce new technology and implement solutions that allow representatives and advisors to focus on client facing activities and asset gathering.</p>
 
                                         </div><!-- /End Section Title -->
                                     </div><!-- /End col-md-12 -->
@@ -428,11 +422,7 @@
 
                                                     <!-- gfort Block Content -->
                                                     <div class="gfort-block-content">
-                                                        <p>Prior to joining BaySys, he worked as a Research Analyst at a
-                                                            leading provider of business process outsourcing solutions
-                                                            and as a Financial Analyst at a software development company
-                                                            responsible for statement specifications and software
-                                                            automation.</p>
+                                                        <p>In her role at BaySys Technology, she continues to work with representatives and advisors on various projects to help them achieve their straight through processing goals.</p>
                                                     </div><!-- /End gfort Block Content -->
 
 
@@ -524,7 +514,135 @@
 
 
                     </div><!-- /End gfort Section (Left Background Image) -->
+                                        <!-- gfort Section (Right Background Image) -->
+                                        <div class="gfort-section half-section right-side-media">
 
+
+                                            <!-- Half Section Media -->
+                                            <div class="half-section-media" style="background-image: url(images/Rajesh.jpg);">
+                                                <img class="small-screen-image" src="images/Rajesh.jpg" alt="iDevices Image" />
+                                            </div><!-- /End Half Section Media -->
+                    
+                    
+                                            <!-- Section Container -->
+                                            <div class="section-container">
+                                                <!-- container -->
+                                                <div class="container">
+                                                    <!-- row -->
+                                                    <div class="row">
+                    
+                    
+                                                        <!-- col-md-12 -->
+                                                        <div class="col-md-12">
+                                                            <!-- Section Title -->
+                                                            <div class="section-title">
+                    
+                                                                <h2 class="section-main-title">Rajesh Ranjan, Director, India Operations
+                                                                </h2>
+                    
+                                                                <p class="section-subtitle">Mr. Ranjan has over 15 years of experience in the financial services and investment management software industries with an emphasis on financial statement analysis, portfolio reconciliation and performance validation and investment technology automation processes. He has a Master of Business Economics (MBE) with a specialization in Econometric Techniques and Business Planning and Forecasting.</p>
+                    
+                                                            </div><!-- /End Section Title -->
+                                                        </div><!-- /End col-md-12 -->
+                    
+                    
+                                                        <!-- col-md-12 -->
+                                                        <div class="col-md-12">
+                                                            <!-- Text Block -->
+                                                            <div class="gfort-block text-block">
+                                                                <!-- gfort Block Container -->
+                                                                <div class="gfort-block-container">
+                    
+                                                                    <!-- gfort Block Body -->
+                                                                    <div class="gfort-block-body">
+                    
+                    
+                                                                        <!-- gfort Block Content -->
+                                                                        <div class="gfort-block-content">
+                                                                            <p>Prior to joining BaySys, he worked as a Research Analyst at a leading provider of business process outsourcing solutions and as a Financial Analyst at a software development company responsible for statement specifications and software automation.</p>
+                                                                        </div><!-- /End gfort Block Content -->
+                    
+                    
+                                                                    </div><!-- /End gfort Block Body -->
+                    
+                                                                </div><!-- /End gfort Block Container -->
+                                                            </div><!-- /End Text Block -->
+                                                        </div><!-- /End col-md-12 -->
+                    
+                    
+                                                    </div><!-- /End row -->
+                                                </div><!-- /End container -->
+                                            </div><!-- /End Section Container -->
+                    
+                    
+                                        </div><!-- /End gfort Section (Right Background Image) -->
+                                        <!-- gfort Section (Left Background Image) -->
+                    <div class="gfort-section half-section left-side-media">
+
+
+                        <!-- Half Section Media -->
+                        <div class="half-section-media" style="background-image: url(images/Mansi.jpeg);">
+                            <img class="small-screen-image" src="images/Mansi.jpeg" alt="Mac Image" />
+                        </div><!-- /End Half Section Media -->
+
+
+                        <!-- Section Container -->
+                        <div class="section-container">
+                            <!-- container -->
+                            <div class="container">
+                                <!-- row -->
+                                <div class="row">
+
+
+                                    <!-- col-md-12 -->
+                                    <div class="col-md-12">
+                                        <!-- Section Title -->
+                                        <div class="section-title">
+
+                                            <h2 class="section-main-title">Mansi Singh, Product Manager</h2>
+
+                                            <p class="section-subtitle">Ms. Singh, a highly experienced professional in the field of billing operations, invoicing, reporting, and management fee calculations. With over 10 years of experience working with firms ranging in size from 100M to 20B, Ms. Singh has a deep understanding of the complex requirements of billing and financial management systems. She is also well-versed in data management and reconciliation of portfolio management systems, ensuring accurate reporting and financial analysis. Ms. Singh is a seasoned professional with a distinguished educational background, holding an MBA degree and earning top grades in project management and financial markets certifications.</p>
+
+                                        </div><!-- /End Section Title -->
+                                    </div><!-- /End col-md-12 -->
+
+
+                                    <!-- col-md-12 -->
+                                    <div class="col-md-12">
+                                        <!-- Text Block -->
+                                        <div class="gfort-block text-block">
+                                            <!-- gfort Block Container -->
+                                            <div class="gfort-block-container">
+
+                                                <!-- gfort Block Body -->
+                                                <div class="gfort-block-body">
+
+
+                                                    <!-- gfort Block Content -->
+                                                    <div class="gfort-block-content">
+                                                        <p>Prior to joining BaySys, Ms. Singh held several positions at some of the prominent organizations where she gained valuable experience and honed her skills in billing and financial operations.<br
+                                                                class="break" /><br
+                                                                class="break" /><br
+                                                                class="break" /><br
+                                                                class="break" /><br
+                                                                class="break" /><br
+                                                                class="break" /></p>
+                                                    </div><!-- /End gfort Block Content -->
+
+
+                                                </div><!-- /End gfort Block Body -->
+
+                                            </div><!-- /End gfort Block Container -->
+                                        </div><!-- /End Text Block -->
+                                    </div><!-- /End col-md-12 -->
+
+
+                                </div><!-- /End row -->
+                            </div><!-- /End container -->
+                        </div><!-- /End Section Container -->
+
+
+                    </div><!-- /End gfort Section (Left Background Image) -->
 
                     <!-- gfort Section (Main Background Color) -->
                     <div class="gfort-section alt-background-color">
