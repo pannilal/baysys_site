@@ -294,7 +294,7 @@
                                                                     class="glyphicon glyphicon-ok-sign"></i> </div>
                                                             <div class="billing-content">
                                                                 <p>
-                                                                <h3>Connect to most any PMS</h3>
+                                                                <h3>Connect to almost any PMS</h3>
                                                                 </p>
                                                                 <p>BARS is PMS-agnostic and works with any type of
                                                                     system that provides the necessary data. And if you
@@ -700,13 +700,9 @@
                                 <div class="row text-center team-image-homepage">
                                     <h2>Our Team</h2>
                                     <!-- col-md-6 -->
-                                    <div class="col-md-4">
-                                        <img class="rounded" src="images/rajesh_square.jpg" alt="">
-                                        <div class="team-text-details">
-                                            <span>Rajesh Ranjan</span>
-                                            <p>Director, India Operations</p>
-                                        </div>
                                     </div><!-- /End col-md-6 -->
+ 
+                                    
                                     <!-- col-md-6 -->
                                     <div class="col-md-4">
                                         <img class="rounded" src="images/larry_square.jpg" alt="">
@@ -716,15 +712,42 @@
                                         </div>
 
                                     </div><!-- /End col-md-6 -->
+                                    
                                     <!-- col-md-6 -->
+                                    <div class="col-md-4">
+                                        <img class="rounded" src="images/rachel_square.jpeg" alt="">
+                                        <div class="team-text-details">
+                                            <span>Rachel Baker</span>
+                                            <p>Director</p>
+                                        </div>
+
+                                    </div><!-- /End col-md-6 -->
+
                                     <div class="col-md-4">
                                         <img class="rounded" src="images/navin_square.jpg" alt="">
                                         <div class="team-text-details">
                                             <span>Navin Kumar</span>
                                             <p>Director, India Operations</p>
                                         </div>
-
                                     </div><!-- /End col-md-6 -->
+                                    <div class="col-md-4">
+                                        <img class="rounded" src="images/rajesh_square.jpg" alt="">
+                                        <div class="team-text-details">
+                                            <span>Rajesh Ranjan</span>
+                                            <p>Director, India Operations</p>
+                                        </div>
+                                    </div><!-- /End col-md-6 -->
+                                    <div class="col-md-4">
+                                        <img class="rounded" src="images/Mansi_square.jpeg" alt="">
+                                        <div class="team-text-details">
+                                            <span>Mansi Singh</span>
+                                            <p>Product Manager, India Operations</p>
+                                        </div>
+                                    </div>
+
+
+                                    <!-- col-md-6 -->
+
 
 
 
@@ -736,9 +759,9 @@
 
 
 
-                                        <a type="button" href="about-us.php" class="btn btn-link text-yellow h4 team-btn">Learn
+                                        <center><a type="button" href="about-us.php" class="btn btn-link text-yellow h4 team-btn">Learn
                                             more
-                                            about us > </a>
+                                            about us > </a></center>
                                     </div>
 
 
